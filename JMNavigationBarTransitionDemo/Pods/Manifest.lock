@@ -2,15 +2,15 @@ PODS:
   - JMNavigationBarTransition (0.0.1)
 
 DEPENDENCIES:
-  - JMNavigationBarTransition (from `../JMNavigationBarTransition`)
+  - JMNavigationBarTransition
 
-EXTERNAL SOURCES:
-  JMNavigationBarTransition:
-    :path: "../JMNavigationBarTransition"
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JMNavigationBarTransition
 
 SPEC CHECKSUMS:
-  JMNavigationBarTransition: c750701e5674f215c4af8880f0680a7664765d2a
+  JMNavigationBarTransition: e536c5cc7cd986d7615aada7315223e8cdab5ff1
 
-PODFILE CHECKSUM: 6871f429a6bbaddc631189acd78ed3efe692e9d6
+PODFILE CHECKSUM: 47d0d99217b6de4ecd64df1002c9dd05e7f38a07
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.5.3

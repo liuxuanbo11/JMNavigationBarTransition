@@ -1,1 +1,1 @@
-../../../../../JMNavigationBarTransition/JMNavigationBarTransition/UINavigationController+Transition.h
+../../../JMNavigationBarTransition/JMNavigationBarTransition/UINavigationController+Transition.h

@@ -1,1 +1,1 @@
-../../../../../JMNavigationBarTransition/JMNavigationBarTransition/JMSwizzel.h
+../../../JMNavigationBarTransition/JMNavigationBarTransition/JMSwizzel.h

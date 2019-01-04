@@ -1,1 +1,1 @@
-../../../../../JMNavigationBarTransition/JMNavigationBarTransition/UIImage+JMColorImage.h
+../../../JMNavigationBarTransition/JMNavigationBarTransition/UIImage+JMColorImage.h

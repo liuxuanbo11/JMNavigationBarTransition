@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		161450D5DB9394FC7F0418550077CF8A /* JMNavigationBarTransition-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76220978265DBF11A1D75E1181CA6AA3 /* JMNavigationBarTransition-dummy.m */; };
-		185524BC70637B1D54AFAE6602C94011 /* UIImage+JMColorImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C740901182F5576CB90FC12201D7D1C /* UIImage+JMColorImage.m */; };
-		2BC34D458CCBFEC821349A5B2D24366E /* UINavigationBar+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2E4DAD286325C3CF13E54FAA3400C /* UINavigationBar+Transition.m */; };
-		4EDB7761E87DB2583E1F1870B099EC78 /* UIViewController+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = B5445E923AAF65316A55AB212BD8ACB9 /* UIViewController+Transition.m */; };
-		704B1EBCB48FD96D3E8166214EA51984 /* UINavigationController+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB5DD5E18983000CDD627B9209BBE82 /* UINavigationController+Transition.m */; };
-		A45B7DA39A3821B32BA1874CA3BB0994 /* UIViewController+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D4772A7DE924656508BB2AC7D2D746A /* UIViewController+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		A4F9096B0FEE5894415DFCB605733AF5 /* JMMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D9BF0E6613D7D4E931D7D28890AD6A1 /* JMMacros.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		B3172AADE8B6CD15BC14A925F76768A1 /* UINavigationController+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 96ACD31B36DB322F52237743AD1CDAEE /* UINavigationController+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		C154DDCDBB7666F923A48285FA4CB26D /* JMSwizzel.h in Headers */ = {isa = PBXBuildFile; fileRef = 902E1498F15612DCCA79045AF12B5D50 /* JMSwizzel.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		CA9B569884224C1A9EBFDFFA04010965 /* UINavigationBar+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = C325B743E0D0C37959C99B0D5F53ACD2 /* UINavigationBar+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		161450D5DB9394FC7F0418550077CF8A /* JMNavigationBarTransition-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27BC4BA7EC2B7E2663C6EFEEA726C98D /* JMNavigationBarTransition-dummy.m */; };
+		185524BC70637B1D54AFAE6602C94011 /* UIImage+JMColorImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C2BB159289427D9B8DB4652EA0EAD6A /* UIImage+JMColorImage.m */; };
+		2BC34D458CCBFEC821349A5B2D24366E /* UINavigationBar+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = 19E16EEDA5497451EEA6A8168FB6D334 /* UINavigationBar+Transition.m */; };
+		4EDB7761E87DB2583E1F1870B099EC78 /* UIViewController+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A4D974596839F4AA002671FC2AE0604 /* UIViewController+Transition.m */; };
+		704B1EBCB48FD96D3E8166214EA51984 /* UINavigationController+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = E98DA4315044D17879D317FD8E2AC9E8 /* UINavigationController+Transition.m */; };
+		A45B7DA39A3821B32BA1874CA3BB0994 /* UIViewController+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 10A1178B77247D37AD4651D03E3FAE19 /* UIViewController+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		A4F9096B0FEE5894415DFCB605733AF5 /* JMMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = BDBAC3AA751246DB22ACC702C143BA47 /* JMMacros.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B3172AADE8B6CD15BC14A925F76768A1 /* UINavigationController+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 1C206967F422CA1587C4846E469BB724 /* UINavigationController+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C154DDCDBB7666F923A48285FA4CB26D /* JMSwizzel.h in Headers */ = {isa = PBXBuildFile; fileRef = 106D7E864973D5368E510209EC7C6A11 /* JMSwizzel.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		CA9B569884224C1A9EBFDFFA04010965 /* UINavigationBar+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 96CA789BCD0885052755536263D0F488 /* UINavigationBar+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		D3F91BEBC178397424A3459006670B41 /* Pods-JMNavigationBarTransitionDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B12C789E0A1369140D421D30D9BB6D8A /* Pods-JMNavigationBarTransitionDemo-dummy.m */; };
-		E0058F68BD8A6C1F4C4799985E395892 /* JMSwizzel.m in Sources */ = {isa = PBXBuildFile; fileRef = 60A10CC53792FB34DCEC242B496EAFC7 /* JMSwizzel.m */; };
-		E26BAB1A8D75BF3D3064C0E898B30E02 /* UIImage+JMColorImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 3448422854285465405E833986F94F86 /* UIImage+JMColorImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		E0058F68BD8A6C1F4C4799985E395892 /* JMSwizzel.m in Sources */ = {isa = PBXBuildFile; fileRef = DF4C5B9846D3D852D0761AAEAA93E1E2 /* JMSwizzel.m */; };
+		E26BAB1A8D75BF3D3064C0E898B30E02 /* UIImage+JMColorImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CC401FEEE7B74355185E6B4E9AD0CEA /* UIImage+JMColorImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,30 +33,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04E2E4DAD286325C3CF13E54FAA3400C /* UINavigationBar+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationBar+Transition.m"; path = "JMNavigationBarTransition/UINavigationBar+Transition.m"; sourceTree = "<group>"; };
-		18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JMNavigationBarTransition.xcconfig; sourceTree = "<group>"; };
+		0A4D974596839F4AA002671FC2AE0604 /* UIViewController+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+Transition.m"; path = "JMNavigationBarTransition/UIViewController+Transition.m"; sourceTree = "<group>"; };
+		106D7E864973D5368E510209EC7C6A11 /* JMSwizzel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMSwizzel.h; path = JMNavigationBarTransition/JMSwizzel.h; sourceTree = "<group>"; };
+		10A1178B77247D37AD4651D03E3FAE19 /* UIViewController+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+Transition.h"; path = "JMNavigationBarTransition/UIViewController+Transition.h"; sourceTree = "<group>"; };
+		19E16EEDA5497451EEA6A8168FB6D334 /* UINavigationBar+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationBar+Transition.m"; path = "JMNavigationBarTransition/UINavigationBar+Transition.m"; sourceTree = "<group>"; };
+		1C206967F422CA1587C4846E469BB724 /* UINavigationController+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationController+Transition.h"; path = "JMNavigationBarTransition/UINavigationController+Transition.h"; sourceTree = "<group>"; };
 		22CE9318E085F6FF25BAFBC7135D749F /* Pods-JMNavigationBarTransitionDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JMNavigationBarTransitionDemo.release.xcconfig"; sourceTree = "<group>"; };
-		2D4772A7DE924656508BB2AC7D2D746A /* UIViewController+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+Transition.h"; path = "JMNavigationBarTransition/UIViewController+Transition.h"; sourceTree = "<group>"; };
-		3448422854285465405E833986F94F86 /* UIImage+JMColorImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+JMColorImage.h"; path = "JMNavigationBarTransition/UIImage+JMColorImage.h"; sourceTree = "<group>"; };
-		4D9BF0E6613D7D4E931D7D28890AD6A1 /* JMMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMMacros.h; path = JMNavigationBarTransition/JMMacros.h; sourceTree = "<group>"; };
-		548E393C17A501C3C7F5C07A30E66C15 /* JMNavigationBarTransition.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = JMNavigationBarTransition.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		60A10CC53792FB34DCEC242B496EAFC7 /* JMSwizzel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMSwizzel.m; path = JMNavigationBarTransition/JMSwizzel.m; sourceTree = "<group>"; };
-		6C740901182F5576CB90FC12201D7D1C /* UIImage+JMColorImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+JMColorImage.m"; path = "JMNavigationBarTransition/UIImage+JMColorImage.m"; sourceTree = "<group>"; };
-		76220978265DBF11A1D75E1181CA6AA3 /* JMNavigationBarTransition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JMNavigationBarTransition-dummy.m"; sourceTree = "<group>"; };
+		27BC4BA7EC2B7E2663C6EFEEA726C98D /* JMNavigationBarTransition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JMNavigationBarTransition-dummy.m"; sourceTree = "<group>"; };
+		2CC401FEEE7B74355185E6B4E9AD0CEA /* UIImage+JMColorImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+JMColorImage.h"; path = "JMNavigationBarTransition/UIImage+JMColorImage.h"; sourceTree = "<group>"; };
 		83640C90A261214C3C53BBC9AAE95568 /* Pods-JMNavigationBarTransitionDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JMNavigationBarTransitionDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		86A5795A23289F1B25075FDD6F6C9777 /* JMNavigationBarTransition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JMNavigationBarTransition-prefix.pch"; sourceTree = "<group>"; };
-		902E1498F15612DCCA79045AF12B5D50 /* JMSwizzel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMSwizzel.h; path = JMNavigationBarTransition/JMSwizzel.h; sourceTree = "<group>"; };
+		8C2BB159289427D9B8DB4652EA0EAD6A /* UIImage+JMColorImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+JMColorImage.m"; path = "JMNavigationBarTransition/UIImage+JMColorImage.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		96ACD31B36DB322F52237743AD1CDAEE /* UINavigationController+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationController+Transition.h"; path = "JMNavigationBarTransition/UINavigationController+Transition.h"; sourceTree = "<group>"; };
+		96CA789BCD0885052755536263D0F488 /* UINavigationBar+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+Transition.h"; path = "JMNavigationBarTransition/UINavigationBar+Transition.h"; sourceTree = "<group>"; };
 		997B92DDA340C4A4805874D9769D1650 /* Pods-JMNavigationBarTransitionDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JMNavigationBarTransitionDemo-frameworks.sh"; sourceTree = "<group>"; };
-		9AB5DD5E18983000CDD627B9209BBE82 /* UINavigationController+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationController+Transition.m"; path = "JMNavigationBarTransition/UINavigationController+Transition.m"; sourceTree = "<group>"; };
 		9BAC0B8491B1E2B9B13D965862F91C0A /* libPods-JMNavigationBarTransitionDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-JMNavigationBarTransitionDemo.a"; path = "libPods-JMNavigationBarTransitionDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9E23350602D6DB373874A965CA2FF68B /* JMNavigationBarTransition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JMNavigationBarTransition-prefix.pch"; sourceTree = "<group>"; };
 		B12C789E0A1369140D421D30D9BB6D8A /* Pods-JMNavigationBarTransitionDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JMNavigationBarTransitionDemo-dummy.m"; sourceTree = "<group>"; };
-		B5445E923AAF65316A55AB212BD8ACB9 /* UIViewController+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+Transition.m"; path = "JMNavigationBarTransition/UIViewController+Transition.m"; sourceTree = "<group>"; };
-		C325B743E0D0C37959C99B0D5F53ACD2 /* UINavigationBar+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+Transition.h"; path = "JMNavigationBarTransition/UINavigationBar+Transition.h"; sourceTree = "<group>"; };
+		BDBAC3AA751246DB22ACC702C143BA47 /* JMMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMMacros.h; path = JMNavigationBarTransition/JMMacros.h; sourceTree = "<group>"; };
+		BE3CE2DFA6E849377E55E279BEE4670B /* JMNavigationBarTransition.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JMNavigationBarTransition.xcconfig; sourceTree = "<group>"; };
 		C8FCF43A02BE42A61856B247E731ABD7 /* Pods-JMNavigationBarTransitionDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JMNavigationBarTransitionDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		D9F925A9E1E9C064375F724EC1823048 /* Pods-JMNavigationBarTransitionDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JMNavigationBarTransitionDemo-resources.sh"; sourceTree = "<group>"; };
+		DF4C5B9846D3D852D0761AAEAA93E1E2 /* JMSwizzel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMSwizzel.m; path = JMNavigationBarTransition/JMSwizzel.m; sourceTree = "<group>"; };
 		E63209C97EBC92C095EF4E4697E4008E /* Pods-JMNavigationBarTransitionDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JMNavigationBarTransitionDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		E98DA4315044D17879D317FD8E2AC9E8 /* UINavigationController+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationController+Transition.m"; path = "JMNavigationBarTransition/UINavigationController+Transition.m"; sourceTree = "<group>"; };
 		FC338DC5BBA777D732C38C231CD2FAB1 /* libJMNavigationBarTransition.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libJMNavigationBarTransition.a; path = libJMNavigationBarTransition.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -85,55 +84,54 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		43F662E17795F699A61269A1C6FA68DE /* JMNavigationBarTransition */ = {
+		1666C6BE94A36126024F34EDF96967C2 /* JMNavigationBarTransition */ = {
 			isa = PBXGroup;
 			children = (
-				4D9BF0E6613D7D4E931D7D28890AD6A1 /* JMMacros.h */,
-				902E1498F15612DCCA79045AF12B5D50 /* JMSwizzel.h */,
-				60A10CC53792FB34DCEC242B496EAFC7 /* JMSwizzel.m */,
-				3448422854285465405E833986F94F86 /* UIImage+JMColorImage.h */,
-				6C740901182F5576CB90FC12201D7D1C /* UIImage+JMColorImage.m */,
-				C325B743E0D0C37959C99B0D5F53ACD2 /* UINavigationBar+Transition.h */,
-				04E2E4DAD286325C3CF13E54FAA3400C /* UINavigationBar+Transition.m */,
-				96ACD31B36DB322F52237743AD1CDAEE /* UINavigationController+Transition.h */,
-				9AB5DD5E18983000CDD627B9209BBE82 /* UINavigationController+Transition.m */,
-				2D4772A7DE924656508BB2AC7D2D746A /* UIViewController+Transition.h */,
-				B5445E923AAF65316A55AB212BD8ACB9 /* UIViewController+Transition.m */,
-				E2E90188D6FD36B86D8C6D563B9648FA /* Pod */,
-				5487C7AED28F2D44BE8F6A5E5A5DC66B /* Support Files */,
+				BDBAC3AA751246DB22ACC702C143BA47 /* JMMacros.h */,
+				106D7E864973D5368E510209EC7C6A11 /* JMSwizzel.h */,
+				DF4C5B9846D3D852D0761AAEAA93E1E2 /* JMSwizzel.m */,
+				2CC401FEEE7B74355185E6B4E9AD0CEA /* UIImage+JMColorImage.h */,
+				8C2BB159289427D9B8DB4652EA0EAD6A /* UIImage+JMColorImage.m */,
+				96CA789BCD0885052755536263D0F488 /* UINavigationBar+Transition.h */,
+				19E16EEDA5497451EEA6A8168FB6D334 /* UINavigationBar+Transition.m */,
+				1C206967F422CA1587C4846E469BB724 /* UINavigationController+Transition.h */,
+				E98DA4315044D17879D317FD8E2AC9E8 /* UINavigationController+Transition.m */,
+				10A1178B77247D37AD4651D03E3FAE19 /* UIViewController+Transition.h */,
+				0A4D974596839F4AA002671FC2AE0604 /* UIViewController+Transition.m */,
+				A718215360501A8D7D8FCEC0712052FC /* Support Files */,
 			);
 			name = JMNavigationBarTransition;
-			path = ../../JMNavigationBarTransition;
-			sourceTree = "<group>";
-		};
-		5487C7AED28F2D44BE8F6A5E5A5DC66B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */,
-				76220978265DBF11A1D75E1181CA6AA3 /* JMNavigationBarTransition-dummy.m */,
-				86A5795A23289F1B25075FDD6F6C9777 /* JMNavigationBarTransition-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../JMNavigationBarTransitionDemo/Pods/Target Support Files/JMNavigationBarTransition";
+			path = JMNavigationBarTransition;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				991DF3ADC96C56BBC81404692E40EC8C /* Development Pods */,
 				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
+				86948563FE99291588A1944BC5F9ED51 /* Pods */,
 				EEA8EC4F6EF726115A030B3C31E25189 /* Products */,
 				C8D6F20FBAB27C1F53AFED25DA777879 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		991DF3ADC96C56BBC81404692E40EC8C /* Development Pods */ = {
+		86948563FE99291588A1944BC5F9ED51 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				43F662E17795F699A61269A1C6FA68DE /* JMNavigationBarTransition */,
+				1666C6BE94A36126024F34EDF96967C2 /* JMNavigationBarTransition */,
 			);
-			name = "Development Pods";
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A718215360501A8D7D8FCEC0712052FC /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				BE3CE2DFA6E849377E55E279BEE4670B /* JMNavigationBarTransition.xcconfig */,
+				27BC4BA7EC2B7E2663C6EFEEA726C98D /* JMNavigationBarTransition-dummy.m */,
+				9E23350602D6DB373874A965CA2FF68B /* JMNavigationBarTransition-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/JMNavigationBarTransition";
 			sourceTree = "<group>";
 		};
 		C8D6F20FBAB27C1F53AFED25DA777879 /* Targets Support Files */ = {
@@ -157,14 +155,6 @@
 			);
 			name = "Pods-JMNavigationBarTransitionDemo";
 			path = "Target Support Files/Pods-JMNavigationBarTransitionDemo";
-			sourceTree = "<group>";
-		};
-		E2E90188D6FD36B86D8C6D563B9648FA /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				548E393C17A501C3C7F5C07A30E66C15 /* JMNavigationBarTransition.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		EEA8EC4F6EF726115A030B3C31E25189 /* Products */ = {
@@ -355,7 +345,7 @@
 		};
 		44AC38A6FB2086695DE5A0BDE73247A2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */;
+			baseConfigurationReference = BE3CE2DFA6E849377E55E279BEE4670B /* JMNavigationBarTransition.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -400,7 +390,7 @@
 		};
 		781B6FD5CCD848241BF713C6B45695C0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */;
+			baseConfigurationReference = BE3CE2DFA6E849377E55E279BEE4670B /* JMNavigationBarTransition.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
