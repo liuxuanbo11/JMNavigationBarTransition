@@ -1,0 +1,537 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		161450D5DB9394FC7F0418550077CF8A /* JMNavigationBarTransition-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76220978265DBF11A1D75E1181CA6AA3 /* JMNavigationBarTransition-dummy.m */; };
+		185524BC70637B1D54AFAE6602C94011 /* UIImage+JMColorImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C740901182F5576CB90FC12201D7D1C /* UIImage+JMColorImage.m */; };
+		2BC34D458CCBFEC821349A5B2D24366E /* UINavigationBar+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E2E4DAD286325C3CF13E54FAA3400C /* UINavigationBar+Transition.m */; };
+		4EDB7761E87DB2583E1F1870B099EC78 /* UIViewController+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = B5445E923AAF65316A55AB212BD8ACB9 /* UIViewController+Transition.m */; };
+		704B1EBCB48FD96D3E8166214EA51984 /* UINavigationController+Transition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB5DD5E18983000CDD627B9209BBE82 /* UINavigationController+Transition.m */; };
+		A45B7DA39A3821B32BA1874CA3BB0994 /* UIViewController+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D4772A7DE924656508BB2AC7D2D746A /* UIViewController+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		A4F9096B0FEE5894415DFCB605733AF5 /* JMMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D9BF0E6613D7D4E931D7D28890AD6A1 /* JMMacros.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B3172AADE8B6CD15BC14A925F76768A1 /* UINavigationController+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = 96ACD31B36DB322F52237743AD1CDAEE /* UINavigationController+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C154DDCDBB7666F923A48285FA4CB26D /* JMSwizzel.h in Headers */ = {isa = PBXBuildFile; fileRef = 902E1498F15612DCCA79045AF12B5D50 /* JMSwizzel.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		CA9B569884224C1A9EBFDFFA04010965 /* UINavigationBar+Transition.h in Headers */ = {isa = PBXBuildFile; fileRef = C325B743E0D0C37959C99B0D5F53ACD2 /* UINavigationBar+Transition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D3F91BEBC178397424A3459006670B41 /* Pods-JMNavigationBarTransitionDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B12C789E0A1369140D421D30D9BB6D8A /* Pods-JMNavigationBarTransitionDemo-dummy.m */; };
+		E0058F68BD8A6C1F4C4799985E395892 /* JMSwizzel.m in Sources */ = {isa = PBXBuildFile; fileRef = 60A10CC53792FB34DCEC242B496EAFC7 /* JMSwizzel.m */; };
+		E26BAB1A8D75BF3D3064C0E898B30E02 /* UIImage+JMColorImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 3448422854285465405E833986F94F86 /* UIImage+JMColorImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A6F614E5B10FEC9DE97C0C06ED43B6AF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E2AEC5FE3E44EC1DE18313861A2D6E76;
+			remoteInfo = JMNavigationBarTransition;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04E2E4DAD286325C3CF13E54FAA3400C /* UINavigationBar+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationBar+Transition.m"; path = "JMNavigationBarTransition/UINavigationBar+Transition.m"; sourceTree = "<group>"; };
+		18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JMNavigationBarTransition.xcconfig; sourceTree = "<group>"; };
+		22CE9318E085F6FF25BAFBC7135D749F /* Pods-JMNavigationBarTransitionDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JMNavigationBarTransitionDemo.release.xcconfig"; sourceTree = "<group>"; };
+		2D4772A7DE924656508BB2AC7D2D746A /* UIViewController+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+Transition.h"; path = "JMNavigationBarTransition/UIViewController+Transition.h"; sourceTree = "<group>"; };
+		3448422854285465405E833986F94F86 /* UIImage+JMColorImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+JMColorImage.h"; path = "JMNavigationBarTransition/UIImage+JMColorImage.h"; sourceTree = "<group>"; };
+		4D9BF0E6613D7D4E931D7D28890AD6A1 /* JMMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMMacros.h; path = JMNavigationBarTransition/JMMacros.h; sourceTree = "<group>"; };
+		548E393C17A501C3C7F5C07A30E66C15 /* JMNavigationBarTransition.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = JMNavigationBarTransition.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		60A10CC53792FB34DCEC242B496EAFC7 /* JMSwizzel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMSwizzel.m; path = JMNavigationBarTransition/JMSwizzel.m; sourceTree = "<group>"; };
+		6C740901182F5576CB90FC12201D7D1C /* UIImage+JMColorImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+JMColorImage.m"; path = "JMNavigationBarTransition/UIImage+JMColorImage.m"; sourceTree = "<group>"; };
+		76220978265DBF11A1D75E1181CA6AA3 /* JMNavigationBarTransition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JMNavigationBarTransition-dummy.m"; sourceTree = "<group>"; };
+		83640C90A261214C3C53BBC9AAE95568 /* Pods-JMNavigationBarTransitionDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JMNavigationBarTransitionDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
+		86A5795A23289F1B25075FDD6F6C9777 /* JMNavigationBarTransition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JMNavigationBarTransition-prefix.pch"; sourceTree = "<group>"; };
+		902E1498F15612DCCA79045AF12B5D50 /* JMSwizzel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMSwizzel.h; path = JMNavigationBarTransition/JMSwizzel.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		96ACD31B36DB322F52237743AD1CDAEE /* UINavigationController+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationController+Transition.h"; path = "JMNavigationBarTransition/UINavigationController+Transition.h"; sourceTree = "<group>"; };
+		997B92DDA340C4A4805874D9769D1650 /* Pods-JMNavigationBarTransitionDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JMNavigationBarTransitionDemo-frameworks.sh"; sourceTree = "<group>"; };
+		9AB5DD5E18983000CDD627B9209BBE82 /* UINavigationController+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationController+Transition.m"; path = "JMNavigationBarTransition/UINavigationController+Transition.m"; sourceTree = "<group>"; };
+		9BAC0B8491B1E2B9B13D965862F91C0A /* libPods-JMNavigationBarTransitionDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-JMNavigationBarTransitionDemo.a"; path = "libPods-JMNavigationBarTransitionDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B12C789E0A1369140D421D30D9BB6D8A /* Pods-JMNavigationBarTransitionDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JMNavigationBarTransitionDemo-dummy.m"; sourceTree = "<group>"; };
+		B5445E923AAF65316A55AB212BD8ACB9 /* UIViewController+Transition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+Transition.m"; path = "JMNavigationBarTransition/UIViewController+Transition.m"; sourceTree = "<group>"; };
+		C325B743E0D0C37959C99B0D5F53ACD2 /* UINavigationBar+Transition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+Transition.h"; path = "JMNavigationBarTransition/UINavigationBar+Transition.h"; sourceTree = "<group>"; };
+		C8FCF43A02BE42A61856B247E731ABD7 /* Pods-JMNavigationBarTransitionDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JMNavigationBarTransitionDemo-acknowledgements.plist"; sourceTree = "<group>"; };
+		D9F925A9E1E9C064375F724EC1823048 /* Pods-JMNavigationBarTransitionDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JMNavigationBarTransitionDemo-resources.sh"; sourceTree = "<group>"; };
+		E63209C97EBC92C095EF4E4697E4008E /* Pods-JMNavigationBarTransitionDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JMNavigationBarTransitionDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		FC338DC5BBA777D732C38C231CD2FAB1 /* libJMNavigationBarTransition.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libJMNavigationBarTransition.a; path = libJMNavigationBarTransition.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6835558FFAD5D28D3FBA4FBD815D7220 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B049D9EC0E0F5B75AC8800D6D6CA3733 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		43F662E17795F699A61269A1C6FA68DE /* JMNavigationBarTransition */ = {
+			isa = PBXGroup;
+			children = (
+				4D9BF0E6613D7D4E931D7D28890AD6A1 /* JMMacros.h */,
+				902E1498F15612DCCA79045AF12B5D50 /* JMSwizzel.h */,
+				60A10CC53792FB34DCEC242B496EAFC7 /* JMSwizzel.m */,
+				3448422854285465405E833986F94F86 /* UIImage+JMColorImage.h */,
+				6C740901182F5576CB90FC12201D7D1C /* UIImage+JMColorImage.m */,
+				C325B743E0D0C37959C99B0D5F53ACD2 /* UINavigationBar+Transition.h */,
+				04E2E4DAD286325C3CF13E54FAA3400C /* UINavigationBar+Transition.m */,
+				96ACD31B36DB322F52237743AD1CDAEE /* UINavigationController+Transition.h */,
+				9AB5DD5E18983000CDD627B9209BBE82 /* UINavigationController+Transition.m */,
+				2D4772A7DE924656508BB2AC7D2D746A /* UIViewController+Transition.h */,
+				B5445E923AAF65316A55AB212BD8ACB9 /* UIViewController+Transition.m */,
+				E2E90188D6FD36B86D8C6D563B9648FA /* Pod */,
+				5487C7AED28F2D44BE8F6A5E5A5DC66B /* Support Files */,
+			);
+			name = JMNavigationBarTransition;
+			path = ../../JMNavigationBarTransition;
+			sourceTree = "<group>";
+		};
+		5487C7AED28F2D44BE8F6A5E5A5DC66B /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */,
+				76220978265DBF11A1D75E1181CA6AA3 /* JMNavigationBarTransition-dummy.m */,
+				86A5795A23289F1B25075FDD6F6C9777 /* JMNavigationBarTransition-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../JMNavigationBarTransitionDemo/Pods/Target Support Files/JMNavigationBarTransition";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				991DF3ADC96C56BBC81404692E40EC8C /* Development Pods */,
+				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
+				EEA8EC4F6EF726115A030B3C31E25189 /* Products */,
+				C8D6F20FBAB27C1F53AFED25DA777879 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		991DF3ADC96C56BBC81404692E40EC8C /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				43F662E17795F699A61269A1C6FA68DE /* JMNavigationBarTransition */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		C8D6F20FBAB27C1F53AFED25DA777879 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DE7B078599781E1499CDC088A29FD050 /* Pods-JMNavigationBarTransitionDemo */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		DE7B078599781E1499CDC088A29FD050 /* Pods-JMNavigationBarTransitionDemo */ = {
+			isa = PBXGroup;
+			children = (
+				83640C90A261214C3C53BBC9AAE95568 /* Pods-JMNavigationBarTransitionDemo-acknowledgements.markdown */,
+				C8FCF43A02BE42A61856B247E731ABD7 /* Pods-JMNavigationBarTransitionDemo-acknowledgements.plist */,
+				B12C789E0A1369140D421D30D9BB6D8A /* Pods-JMNavigationBarTransitionDemo-dummy.m */,
+				997B92DDA340C4A4805874D9769D1650 /* Pods-JMNavigationBarTransitionDemo-frameworks.sh */,
+				D9F925A9E1E9C064375F724EC1823048 /* Pods-JMNavigationBarTransitionDemo-resources.sh */,
+				E63209C97EBC92C095EF4E4697E4008E /* Pods-JMNavigationBarTransitionDemo.debug.xcconfig */,
+				22CE9318E085F6FF25BAFBC7135D749F /* Pods-JMNavigationBarTransitionDemo.release.xcconfig */,
+			);
+			name = "Pods-JMNavigationBarTransitionDemo";
+			path = "Target Support Files/Pods-JMNavigationBarTransitionDemo";
+			sourceTree = "<group>";
+		};
+		E2E90188D6FD36B86D8C6D563B9648FA /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				548E393C17A501C3C7F5C07A30E66C15 /* JMNavigationBarTransition.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		EEA8EC4F6EF726115A030B3C31E25189 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FC338DC5BBA777D732C38C231CD2FAB1 /* libJMNavigationBarTransition.a */,
+				9BAC0B8491B1E2B9B13D965862F91C0A /* libPods-JMNavigationBarTransitionDemo.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		AB8A99B1BFDF016B42CA92124F660D5E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4F9096B0FEE5894415DFCB605733AF5 /* JMMacros.h in Headers */,
+				C154DDCDBB7666F923A48285FA4CB26D /* JMSwizzel.h in Headers */,
+				E26BAB1A8D75BF3D3064C0E898B30E02 /* UIImage+JMColorImage.h in Headers */,
+				CA9B569884224C1A9EBFDFFA04010965 /* UINavigationBar+Transition.h in Headers */,
+				B3172AADE8B6CD15BC14A925F76768A1 /* UINavigationController+Transition.h in Headers */,
+				A45B7DA39A3821B32BA1874CA3BB0994 /* UIViewController+Transition.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		B30633D2DD168B932F4FE7B1F7AFD757 /* Pods-JMNavigationBarTransitionDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6FB5BB29D79510DC9F75FA570A2DA3BF /* Build configuration list for PBXNativeTarget "Pods-JMNavigationBarTransitionDemo" */;
+			buildPhases = (
+				42FE9E8076668A3C0AE5C6172256FE75 /* Sources */,
+				B049D9EC0E0F5B75AC8800D6D6CA3733 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B5673919E3ED99D6B4AD6D924983BFB2 /* PBXTargetDependency */,
+			);
+			name = "Pods-JMNavigationBarTransitionDemo";
+			productName = "Pods-JMNavigationBarTransitionDemo";
+			productReference = 9BAC0B8491B1E2B9B13D965862F91C0A /* libPods-JMNavigationBarTransitionDemo.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		E2AEC5FE3E44EC1DE18313861A2D6E76 /* JMNavigationBarTransition */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C6D2C54C7FD9A6B117A533F8D14087EE /* Build configuration list for PBXNativeTarget "JMNavigationBarTransition" */;
+			buildPhases = (
+				895C271368CBFB729E0732D6DEBF5DAA /* Sources */,
+				6835558FFAD5D28D3FBA4FBD815D7220 /* Frameworks */,
+				AB8A99B1BFDF016B42CA92124F660D5E /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JMNavigationBarTransition;
+			productName = JMNavigationBarTransition;
+			productReference = FC338DC5BBA777D732C38C231CD2FAB1 /* libJMNavigationBarTransition.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = EEA8EC4F6EF726115A030B3C31E25189 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E2AEC5FE3E44EC1DE18313861A2D6E76 /* JMNavigationBarTransition */,
+				B30633D2DD168B932F4FE7B1F7AFD757 /* Pods-JMNavigationBarTransitionDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		42FE9E8076668A3C0AE5C6172256FE75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3F91BEBC178397424A3459006670B41 /* Pods-JMNavigationBarTransitionDemo-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		895C271368CBFB729E0732D6DEBF5DAA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				161450D5DB9394FC7F0418550077CF8A /* JMNavigationBarTransition-dummy.m in Sources */,
+				E0058F68BD8A6C1F4C4799985E395892 /* JMSwizzel.m in Sources */,
+				185524BC70637B1D54AFAE6602C94011 /* UIImage+JMColorImage.m in Sources */,
+				2BC34D458CCBFEC821349A5B2D24366E /* UINavigationBar+Transition.m in Sources */,
+				704B1EBCB48FD96D3E8166214EA51984 /* UINavigationController+Transition.m in Sources */,
+				4EDB7761E87DB2583E1F1870B099EC78 /* UIViewController+Transition.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B5673919E3ED99D6B4AD6D924983BFB2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = JMNavigationBarTransition;
+			target = E2AEC5FE3E44EC1DE18313861A2D6E76 /* JMNavigationBarTransition */;
+			targetProxy = A6F614E5B10FEC9DE97C0C06ED43B6AF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		44AC38A6FB2086695DE5A0BDE73247A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/JMNavigationBarTransition/JMNavigationBarTransition-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = JMNavigationBarTransition;
+				PRODUCT_NAME = JMNavigationBarTransition;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		73D1E9DA8061255139D0B4F87E105FD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E63209C97EBC92C095EF4E4697E4008E /* Pods-JMNavigationBarTransitionDemo.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		781B6FD5CCD848241BF713C6B45695C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18ABE1EC9B3D535D8FF0A8A758E36A33 /* JMNavigationBarTransition.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/JMNavigationBarTransition/JMNavigationBarTransition-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = JMNavigationBarTransition;
+				PRODUCT_NAME = JMNavigationBarTransition;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BD368B2E740F3281EC69EE55A274CA5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 22CE9318E085F6FF25BAFBC7135D749F /* Pods-JMNavigationBarTransitionDemo.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
+				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6FB5BB29D79510DC9F75FA570A2DA3BF /* Build configuration list for PBXNativeTarget "Pods-JMNavigationBarTransitionDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73D1E9DA8061255139D0B4F87E105FD4 /* Debug */,
+				BD368B2E740F3281EC69EE55A274CA5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C6D2C54C7FD9A6B117A533F8D14087EE /* Build configuration list for PBXNativeTarget "JMNavigationBarTransition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				781B6FD5CCD848241BF713C6B45695C0 /* Debug */,
+				44AC38A6FB2086695DE5A0BDE73247A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

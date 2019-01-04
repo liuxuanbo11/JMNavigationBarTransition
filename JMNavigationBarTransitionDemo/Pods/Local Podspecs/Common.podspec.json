@@ -1,0 +1,52 @@
+{
+  "name": "Common",
+  "version": "0.0.1",
+  "summary": "通类",
+  "description": "通用类库",
+  "homepage": "https://git.oschina.net/meining/Meiningjia-iOS-Common.git",
+  "license": "MIT",
+  "authors": {
+    "刘轩博": ""
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/Common.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Common/**/*.{h,m}",
+  "public_header_files": "Common/**/*.h",
+  "resources": "Common/**/*.{png,ttf,jpg,xib,json}",
+  "frameworks": [
+    "SystemConfiguration",
+    "CoreTelephony"
+  ],
+  "libraries": [
+    "z",
+    "sqlite3.0",
+    "c++"
+  ],
+  "requires_arc": true,
+  "xcconfig": {
+    "HEADER_SEARCH_PATHS": "$(SDKROOT)/usr/include/libxml2"
+  },
+  "subspecs": [
+    {
+      "name": "aa",
+      "source_files": "Common/aa/**/*.{h,m}",
+      "vendored_libraries": "Common/aa/**/*.a"
+    },
+    {
+      "name": "Classes",
+      "source_files": "Common/Classes/**/*.{h,m}",
+      "subspecs": [
+        {
+          "name": "WeChatSDK",
+          "source_files": "Common/Classes/WeChatSDK/**/*.{h,m}",
+          "vendored_libraries": "Common/Classes/WeChatSDK/**/*.a"
+        }
+      ]
+    }
+  ]
+}

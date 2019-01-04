@@ -1,0 +1,22 @@
+{
+  "name": "JMNavigationBarTransition",
+  "version": "0.0.1",
+  "summary": "Transition",
+  "description": "NavBarTransition",
+  "homepage": "http://EXAMPLE/JMNavigationBarTransition",
+  "license": "MIT",
+  "authors": {
+    "刘轩博": ""
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/JMNavigationBarTransition",
+    "tag": "0.0.1"
+  },
+  "source_files": "JMNavigationBarTransition/**/*.{h,m}",
+  "public_header_files": "JMNavigationBarTransition/**/*.h",
+  "resources": "JMNavigationBarTransition/**/*.{png,ttf,jpg,xib,json}",
+  "requires_arc": true
+}

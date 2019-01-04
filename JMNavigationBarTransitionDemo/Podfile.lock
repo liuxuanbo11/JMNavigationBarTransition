@@ -1,0 +1,16 @@
+PODS:
+  - JMNavigationBarTransition (0.0.1)
+
+DEPENDENCIES:
+  - JMNavigationBarTransition (from `../JMNavigationBarTransition`)
+
+EXTERNAL SOURCES:
+  JMNavigationBarTransition:
+    :path: "../JMNavigationBarTransition"
+
+SPEC CHECKSUMS:
+  JMNavigationBarTransition: c750701e5674f215c4af8880f0680a7664765d2a
+
+PODFILE CHECKSUM: 6871f429a6bbaddc631189acd78ed3efe692e9d6
+
+COCOAPODS: 1.5.2
